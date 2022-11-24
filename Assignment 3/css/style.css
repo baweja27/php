@@ -1,0 +1,36 @@
+header{
+  width: 100%;
+  height: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header h1 {
+  font-size: 2.5em;
+  color: #f4f4f4;
+  font-family: 'Orbitron', sans-serif;
+}
+.container{
+  padding: 5%;
+}
+body{
+    background-image:url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png');
+
+
+}
+ .guju{
+   font-family: 'Courgette', sans-serif;
+
+ }
+.guju1{
+    font-family: 'Orbitron', sans-serif;
+
+}
+ .record{
+     font-family: 'orbitron';
+ }
+footer {
+
+    right: 0;bottom:0;left:0;
+}
